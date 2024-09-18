@@ -1,1 +1,1 @@
-# 8-bit-ALU-using-Verilog-HDL
+# 8 bit ALU using Verilog HDL
